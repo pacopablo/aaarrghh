@@ -47,10 +47,10 @@ managemnt are:
 
 
 
-.. rubric:: Footnotes
+.. rubic:: Footnotes
 
-.. _[#]: MS Project is overkill for most of what I have to do, and it ties me
+.. [#]: MS Project is overkill for most of what I have to do, and it ties me
          to windows, which is another undesirable attribute.
 
-.. _[#]: Any text editor is pretty much better than a web browser for entering
+.. [#]: Any text editor is pretty much better than a web browser for entering
          text.  I just happen to like vim.

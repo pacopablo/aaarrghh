@@ -35,9 +35,9 @@ Contents:
    design
    api
 
-.. rubric:: Footnotes
+.. rubic:: Footnotes
 
-.. _[#]: One day I would like `aaarrghh` to be more flexible woth the
+.. [#]: One day I would like `aaarrghh` to be more flexible woth the
    documentation it can handle.  Help very welcome.
 
 Indices and tables
